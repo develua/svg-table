@@ -1,0 +1,9 @@
+#wrap-table
+{
+    font: 14px 'Myriad Pro';
+}
+
+circle[r="42"]
+{
+    cursor: pointer;
+}
